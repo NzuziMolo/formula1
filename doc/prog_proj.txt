@@ -1,0 +1,68 @@
+Questionário para Projeto de Data Science sobre Fórmula 1
+1. Objetivo do Projeto
+Qual é o principal objetivo do projeto?
+
+Exemplo: Analisar o desempenho dos pilotos, prever resultados de corridas, otimizar estratégias de pit stop, etc.
+Quais são as principais perguntas de pesquisa que o projeto deve responder?
+
+Exemplo: Quem tem o melhor desempenho em condições de chuva? Qual é o impacto das paradas nos boxes no resultado da corrida?
+2. Dados Disponíveis
+Quais conjuntos de dados estão disponíveis para o projeto?
+
+Exemplo: Dados de corridas, resultados de classificações, estatísticas dos pilotos, dados meteorológicos, etc.
+Qual é a fonte dos dados?
+
+Exemplo: APIs, bancos de dados internos, datasets públicos, etc.
+Os dados estão completos e limpos? Se não, quais são os principais problemas de qualidade dos dados?
+
+Exemplo: Dados ausentes, dados duplicados, inconsistências, etc.
+3. Análise e Modelagem
+Que tipo de análise deseja realizar?
+
+Exemplo: Análise exploratória, análise de tendências, modelagem preditiva, etc.
+Quais técnicas de modelagem são esperadas?
+
+Exemplo: Regressão, classificação, clustering, séries temporais, etc.
+Há alguma métrica de desempenho específica que deve ser usada para avaliar os modelos?
+
+Exemplo: Acurácia, precisão, recall, F1-score, etc.
+4. Visualização e Relatórios
+Quais tipos de visualizações são necessárias para apresentar os resultados?
+
+Exemplo: Gráficos de linha, gráficos de dispersão, mapas de calor, dashboards interativos, etc.
+Qual é o público-alvo dos relatórios?
+
+Exemplo: Executivos, engenheiros de dados, equipes técnicas, fãs de Fórmula 1, etc.
+Quais são os formatos esperados para os relatórios e apresentações?
+
+Exemplo: Relatórios PDF, apresentações PowerPoint, dashboards interativos, etc.
+5. Requisitos Técnicos
+Quais ferramentas e tecnologias são preferidas ou exigidas para o projeto?
+
+Exemplo: Python, R, SQL, ferramentas de visualização como Tableau ou Power BI, etc.
+Há alguma restrição ou exigência em relação ao ambiente de desenvolvimento?
+
+Exemplo: Nuvem, local, ambientes virtuais, etc.
+6. Prazos e Entregas
+Qual é o prazo para a conclusão do projeto?
+
+Exemplo: Datas específicas para entregas parciais e finais.
+Quais são as principais entregas e marcos do projeto?
+
+Exemplo: Entregas de análise exploratória, modelos preditivos, relatórios finais, etc.
+7. Colaboração e Comunicação
+Quem são os principais stakeholders e quais são suas expectativas?
+
+Exemplo: Equipe de análise, departamento de marketing, patrocinadores, etc.
+Qual é a frequência e o formato das reuniões de atualização e comunicação com os stakeholders?
+
+Exemplo: Reuniões semanais, relatórios de status, atualizações por e-mail, etc.
+8. Considerações Adicionais
+Há algum aspecto específico da Fórmula 1 que deve ser considerado ou incluído no projeto?
+
+Exemplo: Estratégias de corrida, regulamentos da FIA, impacto de novas tecnologias, etc.
+Existem outras observações ou requisitos especiais para o projeto?
+
+Exemplo: Restrições de dados, considerações éticas, etc.
+Conclusão
+Esse questionário pode ser ajustado com base nas necessidades específicas do projeto e nos stakeholders envolvidos. Ele ajudará a garantir que todas as áreas importantes sejam cobertas e que o projeto atenda às expectativas e requisitos.
